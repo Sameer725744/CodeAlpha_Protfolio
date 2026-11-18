@@ -6,6 +6,8 @@ A responsive personal portfolio website for introducing Sameer Ahmad, highlighti
 
 - Single-page navigation to About, Education, Skills, Projects, and Contact sections
 - Responsive layout for desktop and mobile screens
+- Forest-green, olive, and beige color palette with subtle textured backgrounds, shadows, and hover effects
+- Resume preview and PDF download
 - Project cards with technology details and a link to the Image Gallery repository
 - Built with plain HTML, CSS, and JavaScript; no build tools or dependencies required
 
@@ -16,6 +18,8 @@ A responsive personal portfolio website for introducing Sameer Ahmad, highlighti
 ├── index.html
 ├── style.css
 ├── script.js
+├── assets/
+│   └── Sameer-Ahmad-Resume.pdf
 └── README.md
 ```
 
